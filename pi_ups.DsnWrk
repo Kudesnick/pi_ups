@@ -17,6 +17,4 @@ ProjectPath=libs\TPS62177DQCR\TPS62177DQCR.LibPkg
 [Project8]
 ProjectPath=libs\TUSB320IRWBR\TUSB320IRWBR.LibPkg
 [Project9]
-ProjectPath=libs\XT60PW-F\XT60PW-F.LibPkg
-[Project10]
-ProjectPath=libs\XT60PW-M\XT60PW-M.LibPkg
+ProjectPath=libs\XT60PW\XT60PW.LibPkg
