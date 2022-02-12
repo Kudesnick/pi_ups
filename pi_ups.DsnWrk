@@ -3,13 +3,13 @@ Version=1.0
 [Project1]
 ProjectPath=pi_ups\pi_ups.PrjPcb
 [Project2]
-ProjectPath=libs\BQ29209DRBR\BQ29209DRBR.LibPkg
+ProjectPath=libs\BQ25792RQMR\BQ25792RQMR.LibPkg
 [Project3]
-ProjectPath=libs\CSD16570Q5B\CSD16570Q5B.LibPkg
+ProjectPath=libs\BQ29209DRBR\BQ29209DRBR.LibPkg
 [Project4]
-ProjectPath=libs\LMR36015AQRNXRQ1\LMR36015AQRNXRQ1.LibPkg
+ProjectPath=libs\CSD16570Q5B\CSD16570Q5B.LibPkg
 [Project5]
-ProjectPath=libs\PQ25792RQMR\PQ25792RQMR.LibPkg
+ProjectPath=libs\LMR36015AQRNXRQ1\LMR36015AQRNXRQ1.LibPkg
 [Project6]
 ProjectPath=libs\SamacSys\SamacSys.LibPkg
 [Project7]
