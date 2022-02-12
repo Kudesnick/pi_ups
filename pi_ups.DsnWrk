@@ -9,9 +9,9 @@ ProjectPath=libs\BQ29209DRBR\BQ29209DRBR.LibPkg
 [Project4]
 ProjectPath=libs\CSD16570Q5B\CSD16570Q5B.LibPkg
 [Project5]
-ProjectPath=libs\LMR36015AQRNXRQ1\LMR36015AQRNXRQ1.LibPkg
-[Project6]
 ProjectPath=libs\SamacSys\SamacSys.LibPkg
+[Project6]
+ProjectPath=libs\TPS62143RGTR\TPS62143RGTR.LibPkg
 [Project7]
 ProjectPath=libs\TPS62177DQCR\TPS62177DQCR.LibPkg
 [Project8]
