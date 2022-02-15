@@ -6,3 +6,7 @@ ProjectPath=pi_ups\pi_ups.PrjPcb
 ProjectPath=libs\XT60PW\XT60PW.LibPkg
 [Project3]
 ProjectPath=libs\chips\chips.LibPkg
+[Project4]
+ProjectPath=libs\capacitor_murata\capacitor_murata.LibPkg
+[Project5]
+ProjectPath=libs\resistors_panasonic\resistors_panasonic_ERJ.LibPkg
