@@ -10,3 +10,7 @@ ProjectPath=libs\chips\chips.LibPkg
 ProjectPath=libs\capacitor_murata\capacitor_murata.LibPkg
 [Project5]
 ProjectPath=libs\resistors_panasonic\resistors_panasonic_ERJ.LibPkg
+[Project6]
+ProjectPath=libs\JST\JST.LibPkg
+[Project7]
+ProjectPath=libs\PRF18AR471QB5RB\PRF18AR471QB5RB.LibPkg
