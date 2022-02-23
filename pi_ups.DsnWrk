@@ -3,12 +3,10 @@ Version=1.0
 [Project1]
 ProjectPath=pi_ups\pi_ups.PrjPcb
 [Project2]
-ProjectPath=libs\XT60PW\XT60PW.LibPkg
-[Project3]
 ProjectPath=libs\chips\chips.LibPkg
-[Project4]
+[Project3]
 ProjectPath=libs\capacitor_murata\capacitor_murata.LibPkg
-[Project5]
+[Project4]
 ProjectPath=libs\resistors_panasonic\resistors_panasonic_ERJ.LibPkg
-[Project6]
-ProjectPath=libs\JST\JST.LibPkg
+[Project5]
+ProjectPath=libs\connectors\connectors.LibPkg
